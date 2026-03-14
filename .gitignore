@@ -1,0 +1,15 @@
+﻿.streamlit/secrets.toml
+.streamlit/credentials.toml
+__pycache__/
+*.pyc
+streamlit_stdout.log
+streamlit_stderr.log
+stdout/
+streamlit.pid
+clean_batch_prepare/
+clean_batch_results/
+gold-standard annotated dataset/
+process of data cleaning/
+sample20000_batch_prepare/
+sample20000_batch_results/
+KEEP_FINAL.csv
